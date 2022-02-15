@@ -38,8 +38,7 @@ The Linear model predicts mgp of MechaCar effectively, as the R-squared value of
 
 * PSI across each manufacturing lots
 
-![image](https://user-images.githubusercontent.com/92698873/154155104-0d3bbb8a-6b3c-4c5d-9972-43ca5ee099e1.png)
-
+![4](https://user-images.githubusercontent.com/92698873/154156441-e1de3a3f-fa8b-45de-a982-93b86b6fec8e.png)
 
 ## Study Design: MechaCar vs Competition
 
@@ -48,9 +47,9 @@ During the pandemic, many people bought family cars like SUVs or minivans to tra
 
 
 ### What is the null hypothesis or alternative hypothesis?
-* H0 - There is no significant difference in buying, number of family size car in MechaCar and competitor
+* H0 - There is no significant difference in selling of family size car in MechaCar and competitor
 
-* Ha - There is a significant difference in buying, number of family size car in MechaCar and competitor
+* Ha - There is a significant difference in selling of family size car in MechaCar and competitor
 
 ### What statistical test would you use to test the hypothesis? And why?
 I could like to test my hypothesis using Multiple Linear Regression as it uses multiple independent variables to determine if there is a significant relationship with the dependent variable. 
