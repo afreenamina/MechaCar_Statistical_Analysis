@@ -35,8 +35,12 @@ The Linear model predicts mgp of MechaCar effectively, as the R-squared value of
 * PSI across all manufacturing lots 
     * p-value of all manufacturing lots is 0.06028 and it is above significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis. 
     * Mean of PSI across all manufacturing lots is 1498.78 and it is not statistically different from the population mean of 1,500
+![lots](https://user-images.githubusercontent.com/92698873/154158229-7c5b398f-a7a3-48eb-9d7f-490acc558093.png)
 
-* PSI across each manufacturing lots
+* PSI across each manufacturing lots - Below are the findings of each lots -
+![lot1](https://user-images.githubusercontent.com/92698873/154158299-2a70ffec-dff2-43d9-b653-198d68664132.png)
+![lot2](https://user-images.githubusercontent.com/92698873/154158306-f11c6ff6-7511-4d60-a2eb-f758b7f95854.png)
+![lot3](https://user-images.githubusercontent.com/92698873/154158320-0a9e8bce-e1fb-4a72-87f0-2511e172d1f5.png)
 
 ![4](https://user-images.githubusercontent.com/92698873/154156441-e1de3a3f-fa8b-45de-a982-93b86b6fec8e.png)
 
